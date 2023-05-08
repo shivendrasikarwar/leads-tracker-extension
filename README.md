@@ -44,9 +44,9 @@ Live Site URL @:  [ Live Site URL](https://shivendra-github.github.io/leads-trac
 ```
 
 
-## What I learned
 
-- How to get the active Chrome tab and store it into localStorage using JSON's methods
+
+
 - How to use "template string" with backtick manipulating directly the DOM
 ```bash
 function render(leads) {
